@@ -4,5 +4,8 @@ Final Project for CSE 676
 Team Members:
 
 Sri Amarnath Mutyala <br>
-Nandini Chinta
+Nandini Chinta <br>
 Venkata Krishna Boinepally
+
+Brief Outline:
+
