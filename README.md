@@ -1,5 +1,4 @@
-# CSE-676-Final
-Final Project for CSE 676 
+# CSE-676 - Final Project
 
 Team Members:
 
